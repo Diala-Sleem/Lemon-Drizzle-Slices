@@ -1,6 +1,6 @@
 <!-- code here -->
 
-# Lemon Drizzle Slices :heart
+# Lemon Drizzle Slices :heart:
 
 A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle is a simple tray bake, made extra special with feather icing
 ![cake](./cake.jpg)
