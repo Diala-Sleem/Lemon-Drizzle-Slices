@@ -1,7 +1,8 @@
 <!-- code here -->
-# Lemon Drizzlr Slices :heart:
 
-A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle is a simple traybake, made extra special with feather icing
+# Lemon Drizzle Slices :heart
+
+A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle is a simple tray bake, made extra special with feather icing
 ![cake](./cake.jpg)
 
 Prep: min
@@ -12,7 +13,7 @@ Cuts inti 10 slices
 
 ## Ingredients
 
-* For the cake 
+* For the cake
   * 120g caster sugar
   * 2 medium eggs
   * 140g self-raising flour
@@ -41,8 +42,8 @@ Cuts inti 10 slices
 
 5. Remove the cake from the tin and peel off the baking parchment. Sit the cake on a wire rack over a baking tray. Spread the white icing over the top. Pipe thin lines of the coloured icing across the width of the cake. Use a cocktail stick to drag through the lines in opposite directions to create a feathered effect. Leave to set before cutting into slices.
 
->*Recpe from Good Food magazine,* [July 2016](https://www.bbcgoodfood.com/search/recipes/date/1467327600)
+>*Recipe from Good Food magazine,* [July 2016](https://www.bbcgoodfood.com/search/recipes/date/1467327600)
 
-**[By Paul Hoolywood](https://www.bbcgoodfood.com/chef/paul-hollywood)**
+**[By Paul Hollywood](https://www.bbcgoodfood.com/chef/paul-hollywood)**
 
 :100:
