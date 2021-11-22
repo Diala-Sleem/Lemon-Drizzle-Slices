@@ -8,7 +8,7 @@ Prep: min
 
 Cook: 30min
 
-Cuts inti 12 slices
+Cuts inti 10 slices
 
 ## Ingredients
 
